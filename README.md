@@ -15,3 +15,12 @@
 [ejecutarpara la aplicación,se nesecita configurar la conexión a la base de datos con el siguiente contenido:] (private static final String URL= "jdbcmysql://localhost:3306/my_database serverTimezone=America/Bogota";)
 
 *Formularios:
+
+
+![image](https://github.com/MariaC017/Taller-7_JavaWeb/assets/128435496/0a18fbd4-9329-4b1e-b9a2-967a917ddf3c)
+
+![image (1)](https://github.com/MariaC017/Taller-7_JavaWeb/assets/128435496/4e340c94-620b-47c1-ac30-0a59064526a4)
+![image (2)](https://github.com/MariaC017/Taller-7_JavaWeb/assets/128435496/2e7491ed-805f-4183-ae0e-b24062c877fb)
+![image (3)](https://github.com/MariaC017/Taller-7_JavaWeb/assets/128435496/b6e18b11-07aa-4fb1-9d16-d7e3bb41c3f8)
+![image (4)](https://github.com/MariaC017/Taller-7_JavaWeb/assets/128435496/46fce5c5-9a5f-4d82-86e9-893c737c9af3)
+![image (5)](https://github.com/MariaC017/Taller-7_JavaWeb/assets/128435496/7e60132e-8b31-4844-b2d3-4d666fb585c5)
